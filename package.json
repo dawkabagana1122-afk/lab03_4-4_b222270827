@@ -1,0 +1,15 @@
+{
+  "name": "lab03_4-4_b222270827",
+  "version": "1.0.0",
+  "description": "F.CSA313 Лаб 3 — чанарын сценарио → SLO → k6 threshold",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
